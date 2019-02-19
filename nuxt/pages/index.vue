@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        test
+        nuxt
       </h1>
       <h2 class="subtitle">
-        My superior Nuxt.js project
+        My transcendent Nuxt.js project
       </h2>
       <div class="links">
         <a

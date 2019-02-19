@@ -6,6 +6,6 @@ services:
       dockerfile: Dockerfile-node
     tty: true
     volumes:
-      - .:/app
+      - ./nuxt:/app
     ports:
       - "1111:3000"

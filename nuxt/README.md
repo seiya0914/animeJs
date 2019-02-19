@@ -1,6 +1,6 @@
-# test
+# nuxt
 
-> My superior Nuxt.js project
+> My transcendent Nuxt.js project
 
 ## Build Setup
 
